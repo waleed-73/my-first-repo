@@ -1,0 +1,23 @@
+commit 3b62a31efa22c51735c53d50aaae468e54792150
+Author: waleed-73 <huseyin.waleed@gmail.com>
+Date:   Sat Sep 10 11:14:59 2022 +0300
+
+    gitingore is inluded and file1.txt is ignored
+
+commit 814765bf73780ed0b5be306a30b1309654ac64d1
+Author: waleed-73 <huseyin.waleed@gmail.com>
+Date:   Sat Sep 10 08:07:34 2022 +0300
+
+    not file.txt is added
+
+commit 8bf26378b5191f52dd79773bbfc7d7391cba6c8d
+Author: waleed-73 <huseyin.waleed@gmail.com>
+Date:   Sat Sep 10 07:43:52 2022 +0300
+
+    a new THEfile1.txt is added
+
+commit 5c6bba9edb3bc567dd0543f566358c95f0ff107b
+Author: waleed-73 <huseyin.waleed@gmail.com>
+Date:   Sat Sep 10 06:25:12 2022 +0300
+
+    the file was created
